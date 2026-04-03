@@ -95,7 +95,7 @@ LIMIT 5;
 ---
 ## 📸 Sample Output
 
-![Sample Output](Gallery/sample_output.png)
+![Sample Output]("C:\Users\rahul\OneDrive\Pictures\sample_output.png")
 
 --- 
 
