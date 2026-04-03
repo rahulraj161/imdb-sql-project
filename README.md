@@ -74,5 +74,24 @@ The dataset contains multiple tables such as:
 * Structuring a complete SQL project
 
 ---
+## 📊 Key Insights
+
+- Drama is one of the most frequent genres  
+- Some directors consistently produce high-rated movies  
+- Movie releases are higher in certain months  
+- Ratings show most movies fall in average range  
+
+---
+
+## 🧪 Sample Query
+
+Find top 5 highest rated movies:
+
+SELECT movie_name, avg_rating  
+FROM movies  
+ORDER BY avg_rating DESC  
+LIMIT 5;
+
+---
 
 This project helped me improve my SQL skills and understand how data is used in real-world scenarios.
