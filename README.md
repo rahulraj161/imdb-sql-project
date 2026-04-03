@@ -93,5 +93,15 @@ ORDER BY avg_rating DESC
 LIMIT 5;
 
 ---
+## 📸 Sample Output
+
+![Sample Output](sample_output.png)
+
+--- 
+
+## 🧠 Example Insight
+
+One of the queries identifies top-rated movies using aggregation and sorting.  
+This helps in understanding which movies performed best based on audience ratings.
 
 This project helped me improve my SQL skills and understand how data is used in real-world scenarios.
