@@ -95,7 +95,7 @@ LIMIT 5;
 ---
 ## 📸 Sample Output
 
-![Sample Output](sample_output.png)
+![Sample Output](Gallery/sample_output.png)
 
 --- 
 
